@@ -1,0 +1,44 @@
+{
+    "stages": [
+      	{
+			"target": 10,
+			"duration": 5
+		},
+		{
+			"target": 20,
+			"duration": 16
+		},
+		{
+			"target": 30,
+			"duration": 15
+		},
+		{
+			"target": 40,
+			"duration": 14
+		},
+		{
+			"target": 50,
+			"duration": 19
+		},
+		{
+			"target": 10,
+			"duration": 5
+		},
+		{
+			"target": 20,
+			"duration": 16
+		},
+		{
+			"target": 30,
+			"duration": 15
+		},
+		{
+			"target": 40,
+			"duration": 14
+		},
+		{
+			"target": 50,
+			"duration": 19
+		}
+    ]  
+}
